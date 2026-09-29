@@ -1,2 +1,1 @@
-# SQA-Lab1
-SQA-Lab1
+print("Hello World")
